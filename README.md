@@ -6,3 +6,5 @@ I'm currently doing undergrad research on AI for elderly fall prevention. Some o
 - Quantum computing algorithms
 - Math Olympiad problems
 - Theoretical computer science topics, such as combinatorics optimization, and online algorithms
+
+![Bald Kaguya Boom](https://media1.tenor.com/m/Xk-mBqoSLX0AAAAC/kaguya-boom.gif)
