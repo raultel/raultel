@@ -1,10 +1,6 @@
-## Hi there 👋
+## Olá! 
 
-I'm Raul, I'm finishing my undergrad degree in Computer Science at ICMC/USP. 
-
-I'm currently doing undergrad research on AI for elderly fall prevention. Some of my interests are:
-- Quantum computing algorithms
-- Math Olympiad problems
-- Theoretical computer science topics, such as combinatorics optimization, and online algorithms
+I study computer science in Universidade de São Paulo. I'm currently doing research on ML and LLM's for elderly fall prevention.
 
 ![Bald Kaguya Boom](https://media1.tenor.com/m/Xk-mBqoSLX0AAAAC/kaguya-boom.gif)
+![Cirno   Goodman](https://media1.tenor.com/m/9FQfsxlkDnsAAAAd/cirno-cirno-fumo.gif)
